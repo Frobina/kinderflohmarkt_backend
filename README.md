@@ -1,6 +1,6 @@
 # kinderflohmarkt_backend
 
-# Willkommen auf unserer Plattform des Kinderflohmarktes-Standbuchung-WIP- #
+# Willkommen auf unserer Plattform des Kinderflohmarkts_backend
 
 Eine moderne, **webbasierte Plattform Eine moderne Web-Applikation zur Organisation von Kinderflohmärkten mit Fokus auf Tisch- und Standbuchungen**. Dieses Projekt befindet sich aktuell in der Entwicklung (Work in Progress).
 
@@ -13,7 +13,8 @@ Ein digitales Buchungssystem für Kinderflohmärkte löst ein echtes, praktische
 
 Plann-Struktur:
 
-# Woche 1: Fundament & Datenstruktur Tag 1: Projekt-Setup & Git-Initialisierung​Aufgabe: Erstelle die Ordnerstruktur, die .gitignore und die requirements.txt. Installiere die Bibliotheken.
+# Woche 1: Fundament & Datenstruktur 
+**Tag 1:** Projekt-Setup & Git-Initialisierung​Aufgabe: Erstelle die Ordnerstruktur, die .gitignore und die requirements.txt. Installiere die Bibliotheken.
 
 **Tag 2:** Datenbank-Verbindung​Aufgabe: Schreibe die app/database.py mit der SQLite-Konfiguration und der get_db-Funktion.
 
